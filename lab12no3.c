@@ -1,7 +1,7 @@
 #include <stdio.h>
 int fac(int);
 int fib(int);
-
+ 
 int main() {
     printf("%d\n", fac(5));   
     printf("%d\n", fib(7));     
